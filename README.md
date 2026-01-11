@@ -1,16 +1,35 @@
-# React + Vite
+🔐 Password Generator (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and secure Password Generator built with React.
+This application allows users to create strong and customizable passwords by adjusting length and choosing whether to include numbers and special characters.
 
-Currently, two official plugins are available:
+⸻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+	•	🔢 Adjust password length dynamically
+	•	🔠 Option to include numbers (0–9)
+	•	🔣 Option to include special characters
+	•	🎲 Random and secure password generation
+	•	📋 One-click password generation
 
-## React Compiler
+⸻
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Built With
+	•	React
+	•	JavaScript (ES6+)
+	•	CSS
+	•	HTML
 
-## Expanding the ESLint configuration
+⸻
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📸 Preview
+
+https://github.com/user-attachments/assets/bdcf0d16-348f-4581-a08f-747f056249cb
+
+⸻
+
+🧠 How It Works
+	•	The user selects the desired password length.
+	•	Optional toggles allow including numbers and special characters.
+	•	The app generates a random, strong password based on selected options.
+	•	Each password is unique and unpredictable.
